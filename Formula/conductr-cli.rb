@@ -10,5 +10,6 @@ class ConductrCli < Formula
   end
 
   test do
+    system bin/"sandbox", "version"
   end
 end

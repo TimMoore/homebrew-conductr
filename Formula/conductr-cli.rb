@@ -1,9 +1,9 @@
 class ConductrCli < Formula
   desc "The Lightbend ConductR CLI"
   homepage "https://conductr.lightbend.com"
-  url "https://bintray.com/lightbend/generic/download_file?file_path=conductr-cli-1.0.9-Mac_OS_X-x86_64.zip"
-  version "1.0.9"
-  sha256 "1c066b6a60b9ff13167504848fd1c0e3178c7a1fb8da3e0987284ccd8a21fc1e"
+  url "https://bintray.com/lightbend/generic/download_file?file_path=conductr-cli-1.1.0-Mac_OS_X-x86_64.zip"
+  version "1.1.0"
+  sha256 "9b169b24be1173dde257bdd633df8df7066fe015e3eefd8ed4d36f41f3e59852"
 
   def install
     bin.install Dir["*"]

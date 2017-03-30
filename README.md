@@ -1,4 +1,8 @@
-# Lightbend ConductR
+# Lightbend ConductR Homebrew Repository
+
+## Introduction
+
+This repository provides a Homebrew repository so that ConductR's CLI and other components may be easily installed on macOS.
 
 ## Installing ConductR with Homebrew
 

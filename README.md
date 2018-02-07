@@ -1,5 +1,7 @@
 # Lightbend ConductR Homebrew Repository
 
+*Note that this project is EOL as of 2018-01-31.*
+
 ## Introduction
 
 This repository provides a Homebrew repository so that ConductR's CLI and other components may be easily installed on macOS.
